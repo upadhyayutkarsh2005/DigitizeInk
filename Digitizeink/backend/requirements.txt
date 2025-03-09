@@ -1,0 +1,12 @@
+
+flask
+fastapi
+uvicorn
+pytesseract
+easyocr
+opencv-python
+pillow
+numpy
+pymongo
+werkzeug
+flask-cors
